@@ -11,7 +11,7 @@
     "name": "Áo khoác nam",
     "price": 400000,
     "description": "Áo khoác nam đẹp",
-    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbansithoitrang.net%2Fshop%2Ftuyen-ctv-ban-ao-khoac-nam-bomber-chat-du%2F&psig=AOvVaw2K-HDO_epWPjwBFMOTcgDp&ust=1682692748565000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPD69o6lyv4CFQAAAAAdAAAAABAR"
+    "image_url": "https://bansithoitrang.net/wp-content/uploads/12712-clean-z1978554782759-b2c863962b2d1c886e291dfa6e7929b0.jpg"
   },
   {
     "id": "3",
@@ -23,15 +23,15 @@
   {
     "id": "4",
     "name": "FORMAL WOOL BLAZER",
-    "price": 67420000,
+    "price": 2000000,
     "description": "Áo khoác thanh lịch cho quý ông",
-    "image_url": "https://www.versace.com/dw/image/v2/ABAO_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw953a5396/original/90_1006352-1A04317_1B000_10_FormalWoolBlazer-BlazersandSuits-versace-online-store_0_2.jpg?sw=1440&sh=2000&sm=fit&sfrm=jpg"
+    "image_url": "https://mensaigon.vn/wp-content/uploads/2021/03/174042.jpg"
   },
   {
     "id": "5",
-    "name": "Áo khoác nam",
-    "price": 94520000,
-    "description": "SINGLE-BREASTED WOOL COAT",
-    "image_url": "https://www.versace.com/dw/image/v2/ABAO_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw7882f4ed/original/90_1006962-1A04931_1B000_10_Single-BreastedWoolCoat-Coats-versace-online-store_0_0.jpg?sw=1440&sh=2000&sm=fit&sfrm=jpg"
+    "name": "ÁO MAX MARA Double-breasted wool coa",
+    "price": 8200000,
+    "description": "Tông màu đẹp, mang tính quý bà",
+    "image_url": "https://bizweb.dktcdn.net/100/106/923/products/2-e8fd18e4-79da-4096-af66-22d0b528d4df.jpg?v=1666723964323"
   }
 ]
