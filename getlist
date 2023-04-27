@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Áo khoác nam",
+    "price": 500000,
+    "description": "Áo khoác nam đẹp",
+    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftiki.vn%2Fao-khoac-du-ao-khoac-du-nam-cuc-chat-co-mu-che-nang-sieu-dep-ngau-nhat-2021-lano-store-p113420255.html&psig=AOvVaw2K-HDO_epWPjwBFMOTcgDp&ust=1682692748565000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPD69o6lyv4CFQAAAAAdAAAAABAJ"
+  },
+  {
+    "id": "2",
+    "name": "Áo khoác nam",
+    "price": 400000,
+    "description": "Áo khoác nam đẹp",
+    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbansithoitrang.net%2Fshop%2Ftuyen-ctv-ban-ao-khoac-nam-bomber-chat-du%2F&psig=AOvVaw2K-HDO_epWPjwBFMOTcgDp&ust=1682692748565000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPD69o6lyv4CFQAAAAAdAAAAABAR"
+  },
+  {
+    "id": "3",
+    "name": "Áo khoác nam",
+    "price": 300000,
+    "description": "Áo khoác nam đẹp",
+    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftiki.vn%2Fao-khoac-nam-mong-thu-dong-stylemarven-thiet-ke-mu-trum-in-hinh-phong-canh-doc-la-ao-khoac-nam-131-p173355370.html&psig=AOvVaw2K-HDO_epWPjwBFMOTcgDp&ust=1682692748565000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPD69o6lyv4CFQAAAAAdAAAAABAi"
+  },
+  {
+    "id": "4",
+    "name": "Áo khoác nam",
+    "price": 67420000,
+    "description": "FORMAL WOOL BLAZER",
+    "image_url": "https://www.versace.com/dw/image/v2/ABAO_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw953a5396/original/90_1006352-1A04317_1B000_10_FormalWoolBlazer-BlazersandSuits-versace-online-store_0_2.jpg?sw=748&sh=1050&sm=fit"
+  },
+  {
+    "id": "5",
+    "name": "Áo khoác nam",
+    "price": 94520000,
+    "description": "SINGLE-BREASTED WOOL COAT",
+    "image_url": "https://www.versace.com/dw/image/v2/ABAO_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw7882f4ed/original/90_1006962-1A04931_1B000_10_Single-BreastedWoolCoat-Coats-versace-online-store_0_0.jpg?sw=748&sh=1050&sm=fit"
+  }
+]
